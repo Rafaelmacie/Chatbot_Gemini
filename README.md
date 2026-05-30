@@ -1,0 +1,1 @@
+## Para rodar o projeto, basta criar um arquivo .env, copiar o conteúdo de .env.example e colar lá dentro, substituindo o valor de exemplo pela sua chave real gerada no Google AI Studio, depois rodar o comando `python main.py`
