@@ -1,1 +1,10 @@
-## Para rodar o projeto, basta criar um arquivo .env, copiar o conteúdo de .env.example e colar lá dentro, substituindo o valor de exemplo pela sua chave real gerada no Google AI Studio, depois rodar o comando `python main.py`
+## Passo a passo para rodar o chatbot:
+
+* Rodar um `git clone https://github.com/Rafaelmacie/Chatbot_Gemini`
+* Dentro da pasta do projeto, rodar um python -m venv venv para criar o ambiente de desenvolvimento
+* Ativar a venv com `.\venv\Scripts\Activate.ps1` || `venv\Scripts\activate` || `source venv/bin/activate`
+* Instalar as dependências com `pip install -r requirements.txt`
+* Criar um arquivo .env
+* Copiar o conteúdo de .env.example e colar dentro da nova .env
+* Substituindo o valor de exemplo pela sua chave real gerada no Google AI Studio 
+* Rodar o comando `python main.py`
